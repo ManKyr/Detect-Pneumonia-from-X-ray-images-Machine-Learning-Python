@@ -2,12 +2,12 @@
 
 # KGMI
 # ![pneumonies](https://user-images.githubusercontent.com/73962468/108904991-d38d7f80-7627-11eb-9810-766357bf429a.png)
-# 
 
 **Our Team** : Kyros George, Manolas Ioannis
+- We achieved to take the 3rd Place of the MS.c's Machine Learning Competition 
+# ![bathmologia](https://user-images.githubusercontent.com/73962468/108909163-e060a200-762c-11eb-8c4c-4ecac3690f33.jpg) 
 
-URL: 
-- https://www.kaggle.com/c/detect-pneumonia-fall-2020
+- URL: https://www.kaggle.com/c/detect-pneumonia-fall-2020
 
 ## Description
 This competition was about detecting pneumonia from chest X-Rays. The images are gray-scale with various sizes. There are 3 image classes:      
@@ -55,4 +55,18 @@ Viral Pneumonia | 1207
 Amount | 4672
 
 ## Pre-trained Models
+- VGG16
+# ![vgg16](https://user-images.githubusercontent.com/73962468/108906638-c7a2bd00-7629-11eb-812b-bc0e630cfc36.png)
 
+- EfficientNetB0
+# ![eff](https://user-images.githubusercontent.com/73962468/108906658-cb364400-7629-11eb-9122-6d79d7ecd4bc.png)
+
+## Results
+
+- We managed to achieve a score ~= 85% with Efficient and ~= 82% with VGG-16 at private leaderboard of competition on kaggle.
+ 
+## VGG-16
+# ![vgg16_acc](https://user-images.githubusercontent.com/73962468/108907755-287ec500-762b-11eb-87a5-9a283900986c.png)
+
+## EfficientNetB0
+# ![efficientnetb0_acc](https://user-images.githubusercontent.com/73962468/108907769-2d437900-762b-11eb-9c62-b928071bd0f3.png)
