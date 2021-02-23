@@ -13,7 +13,9 @@
 This competition was about detecting pneumonia from chest X-Rays. The images are gray-scale with various sizes. There are 3 image classes:      
 
 Class 0: no disease      
+
 Class 1: bacterial pneumonia 
+
 Class 2: viral pneumonia
 
 # ![applsci-10-03233-g008-550](https://user-images.githubusercontent.com/73962468/108903806-67f6e280-7626-11eb-9aab-bb8de218d180.jpg)
